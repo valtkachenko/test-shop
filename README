@@ -1,0 +1,6 @@
+install postgresql, create user and database depend on your operating system
+install project dependencies using 'npm install' command 
+add .env file as .env.example file
+run latest migrations using 'npx knex migrate:latest' command
+start tests: npm test
+start project in dev mode: npm start
